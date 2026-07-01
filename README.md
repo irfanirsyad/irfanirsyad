@@ -39,9 +39,9 @@
 ## 📊 Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irfanxyz5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ipanzx Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irfanirsyad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ipanzx Stats" />
   
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irfanxyz5&layout=compact&langs_count=7&theme=tokyonight" alt="Ipanzx Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irfanirsyad&layout=compact&langs_count=7&theme=tokyonight" alt="Ipanzx Languages" />
 </div>
 
 ## 🌐 Connect with Me
@@ -51,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="40" height="40" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/irfanxyz5" target="_blank">
+  <a href="https://github.com/irfanirsyad" target="_blank">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="40" height="40" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;

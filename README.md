@@ -1,67 +1,69 @@
 <div align="center">
+  <!-- HEADER ANIMASI -->
+  <a href="https://github.com/irfanirsyad">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Muhammad+Irfan+Irsyad;Full-Stack+Web+Engineering;Automation+Bot+Developer;UI+%2F+UX+Enthusiast" alt="Typing SVG" />
+  </a>
+  <br>
   
-  <!-- FOTO 1:1 - Ganti URL dengan foto Anda (ukuran 150x150px, bisa berbentuk lingkaran atau persegi) -->
-  <img src="https://d.top4top.io/p_37396lh2z1.jpg" width="200" height="200" style="border-radius: 50%; object-fit: cover;" alt="Muhammad Irfan Irsyad">
-  
-  <h1>Muhammad Irfan Irsyad</h1>
-  
-  <p>
-    <em>Greetings! I'm Irfan, the visionary behind Ipanzx Web Developer. I specialize in bridging the gap between sophisticated design and seamless frontend interactivity. My approach blends minimalist aesthetics with robust UI logic to create high-performance, responsive digital experiences.</em>
+  <!-- FOTO PROFIL -->
+  <img src="https://d.top4top.io/p_37396lh2z1.jpg" width="160" height="160" style="border-radius: 50%;" alt="Muhammad Irfan Irsyad">
+  <br><br>
+
+  <!-- DESKRIPSI -->
+  <p align="center">
+    <em>Bridging the gap between sophisticated design and seamless interactivity.</em> <br>
+    Specializing in high-performance digital experiences, minimalist aesthetics, and robust backend logic.
   </p>
-  
-  <!-- SEPARATOR -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI+%2F+UX+Enthusiast;React+%26+TypeScript+Junior" alt="Typing SVG" />
-  
-  <hr />
-  
+
+  <br>
 </div>
 
-## 🛠️ Technology Stack
+<hr style="border: 1px solid #1E293B;"/>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
-</p>
-
-## 🔧 Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/termux/termux-app/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="50" height="50" alt="Termux"/>
-</p>
-
-## 📊 Performance
+## ⚡ Technologies & Tools
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irfanirsyad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ipanzx Stats" />
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irfanirsyad&layout=compact&langs_count=7&theme=tokyonight" alt="Ipanzx Languages" />
+  <p>Menggunakan arsitektur modern untuk antarmuka web dan sistem otomatisasi.</p>
+  <br>
+  <!-- MENGGUNAKAN SKILL-ICONS (Gaya desain yang lebih konsisten dan elegan) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark&perline=7" alt="Frontend Stack" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,docker,mongodb,mysql,prisma,vscode,github&theme=dark&perline=7" alt="Backend & Tools" />
+  </a>
 </div>
+
+<br>
+<hr style="border: 1px solid #1E293B;"/>
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <p>Statistik dengan penyesuaian tema warna latar gelap dan aksen neon biru/ungu.</p>
+  <!-- STATISTIK DENGAN TEMA CUSTOM (Neon & Dark) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=irfanirsyad&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&icon_color=00FFFF" alt="Ipanzx Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanirsyad&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9" alt="Ipanzx Languages" height="190" />
+</div>
+
+<br>
+<hr style="border: 1px solid #1E293B;"/>
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://instagram.com/panzxiorzy" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="40" height="40" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/irfanirsyad" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/panzxiorzyy" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" width="40" height="40" alt="Telegram"/>
-  </a>
-  &nbsp;&nbsp;
+<div align="center">
+  <!-- BADGES SOSIAL MEDIA MODEREN -->
   <a href="https://linkedin.com/in/ipanzx" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
-<hr />
+  &nbsp;
+  <a href="https://t.me/panzxiorzyy" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/panzxiorzy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+<br>

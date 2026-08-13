@@ -26,7 +26,7 @@
     <tr>
       <td width="50%" valign="top">
         <h3 align="center">
-          <a href="URL_PROJECT_IPANZX_MD">🤖 Ipanzx MD</a>
+          <a href="https://github.com/irfanirsyad">🤖 Ipanzx MD</a>
         </h3>
         <p align="center">
           Multi-plugin WhatsApp userbot yang di-deploy pada lingkungan server panel Pterodactyl. Dibangun untuk performa otomatisasi tinggi.
@@ -38,7 +38,7 @@
       </td>
       <td width="50%" valign="top">
         <h3 align="center">
-          <a href="URL_PROJECT_TEMAN_CERITA">🗣️ Teman Cerita</a>
+          <a href="https://github.com/irfanirsyad">🗣️ Teman Cerita</a>
         </h3>
         <p align="center">
           Platform web pelacakan konseling siswa. Merutekan detail konsultasi anonim langsung ke bot Telegram terintegrasi.
@@ -52,7 +52,7 @@
     <tr>
       <td width="50%" valign="top">
         <h3 align="center">
-          <a href="URL_PROJECT_3D_PARTICLE">✨ 3D Particle Gestures</a>
+          <a href="https://github.com/irfanirsyad">✨ 3D Particle Gestures</a>
         </h3>
         <p align="center">
           Sistem visualisasi partikel 3D berbasis gestur yang memanfaatkan pemetaan titik Three.js dan kamera pelacakan tangan MediaPipe.
@@ -64,7 +64,7 @@
       </td>
       <td width="50%" valign="top">
         <h3 align="center">
-          <a href="URL_PROJECT_N8N_AUTOMATION">⚙️ n8n Automation Engine</a>
+          <a href="https://github.com/irfanirsyad">⚙️ n8n Automation Engine</a>
         </h3>
         <p align="center">
           Antarmuka pengumpulan data otomatis yang di-deploy menggunakan n8n via Docker, terintegrasi penuh dengan Google Sheets.

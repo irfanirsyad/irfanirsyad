@@ -25,16 +25,26 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🤖 Ipanzx MD</h3>
-        <p align="center">Multi-plugin WhatsApp userbot yang di-deploy pada lingkungan server panel Pterodactyl. Dibangun untuk performa otomatisasi tinggi.</p>
+        <h3 align="center">
+          <!-- Ganti link di bawah dengan link project Ipanzx MD -->
+          <a href="URL_PROJECT_IPANZX_MD">🤖 Ipanzx MD</a>
+        </h3>
+        <p align="center">
+          <a href="URL_PROJECT_IPANZX_MD">Multi-plugin WhatsApp userbot yang di-deploy pada lingkungan server panel Pterodactyl. Dibangun untuk performa otomatisasi tinggi.</a>
+        </p>
         <p align="center">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
           <img src="https://img.shields.io/badge/Baileys-00FFFF?style=flat-square&logo=whatsapp&logoColor=black" alt="Baileys"/>
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🗣️ Teman Cerita</h3>
-        <p align="center">Platform web pelacakan konseling siswa. Merutekan detail konsultasi anonim langsung ke bot Telegram terintegrasi.</p>
+        <h3 align="center">
+          <!-- Ganti link di bawah dengan link project Teman Cerita -->
+          <a href="URL_PROJECT_TEMAN_CERITA">🗣️ Teman Cerita</a>
+        </h3>
+        <p align="center">
+          <a href="URL_PROJECT_TEMAN_CERITA">Platform web pelacakan konseling siswa. Merutekan detail konsultasi anonim langsung ke bot Telegram terintegrasi.</a>
+        </p>
         <p align="center">
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
           <img src="https://img.shields.io/badge/EmailJS-FF9900?style=flat-square&logo=maildotru&logoColor=white" alt="EmailJS"/>
@@ -43,16 +53,26 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">✨ 3D Particle Gestures</h3>
-        <p align="center">Sistem visualisasi partikel 3D berbasis gestur yang memanfaatkan pemetaan titik Three.js dan kamera pelacakan tangan MediaPipe.</p>
+        <h3 align="center">
+          <!-- Ganti link di bawah dengan link project 3D Particle -->
+          <a href="URL_PROJECT_3D_PARTICLE">✨ 3D Particle Gestures</a>
+        </h3>
+        <p align="center">
+          <a href="URL_PROJECT_3D_PARTICLE">Sistem visualisasi partikel 3D berbasis gestur yang memanfaatkan pemetaan titik Three.js dan kamera pelacakan tangan MediaPipe.</a>
+        </p>
         <p align="center">
           <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white" alt="ThreeJS"/>
           <img src="https://img.shields.io/badge/MediaPipe-00B2A9?style=flat-square&logo=google&logoColor=white" alt="MediaPipe"/>
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">⚙️ n8n Automation Engine</h3>
-        <p align="center">Antarmuka pengumpulan data otomatis yang di-deploy menggunakan n8n via Docker, terintegrasi penuh dengan Google Sheets.</p>
+        <h3 align="center">
+          <!-- Ganti link di bawah dengan link project n8n -->
+          <a href="URL_PROJECT_N8N_AUTOMATION">⚙️ n8n Automation Engine</a>
+        </h3>
+        <p align="center">
+          <a href="URL_PROJECT_N8N_AUTOMATION">Antarmuka pengumpulan data otomatis yang di-deploy menggunakan n8n via Docker, terintegrasi penuh dengan Google Sheets.</a>
+        </p>
         <p align="center">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
           <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
@@ -85,10 +105,14 @@
 
 <div align="center">
   <!-- STATISTIK KESELURUHAN -->
-  <img src="https://github-readme-stats.vercel.app/api?username=irfanirsyad&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&icon_color=00FFFF" alt="Ipanzx Stats" height="190" />
+  <a href="https://github.com/irfanirsyad">
+    <img src="https://github-readme-stats.vercel.app/api?username=irfanirsyad&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&icon_color=00FFFF" alt="Ipanzx Stats" height="190" />
+  </a>
   
   <!-- METRIK STREAK (PROGRES COMMIT) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanirsyad&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=C9D1D9" alt="Ipanzx Commit Streak" height="190" />
+  <a href="https://github.com/irfanirsyad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanirsyad&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=C9D1D9" alt="Ipanzx Commit Streak" height="190" />
+  </a>
 
   <br><br>
   

@@ -97,7 +97,7 @@
 <br>
 <hr style="border: 1px solid #1E293B;"/>
 
-## 📊 GitHub Metrics & Progres Commit
+## 📊 GitHub Metrics, Languages & Commits
 
 <div align="center">
   <!-- STATISTIK KESELURUHAN -->
@@ -105,6 +105,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=irfanirsyad&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&icon_color=00FFFF" alt="Ipanzx Stats" height="190" />
   </a>
   
+  <!-- TOP LANGUAGES (BAHASA PEMROGRAMAN) -->
+  <a href="https://github.com/irfanirsyad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanirsyad&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9" alt="Top Languages" height="190" />
+  </a>
+
+  <br><br>
+
   <!-- METRIK STREAK (PROGRES COMMIT) -->
   <a href="https://github.com/irfanirsyad">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanirsyad&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&sideLabels=C9D1D9&dates=C9D1D9" alt="Ipanzx Commit Streak" height="190" />

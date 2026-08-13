@@ -26,11 +26,10 @@
     <tr>
       <td width="50%" valign="top">
         <h3 align="center">
-          <!-- Ganti link di bawah dengan link project Ipanzx MD -->
           <a href="URL_PROJECT_IPANZX_MD">🤖 Ipanzx MD</a>
         </h3>
         <p align="center">
-          <a href="URL_PROJECT_IPANZX_MD">Multi-plugin WhatsApp userbot yang di-deploy pada lingkungan server panel Pterodactyl. Dibangun untuk performa otomatisasi tinggi.</a>
+          Multi-plugin WhatsApp userbot yang di-deploy pada lingkungan server panel Pterodactyl. Dibangun untuk performa otomatisasi tinggi.
         </p>
         <p align="center">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
@@ -39,11 +38,10 @@
       </td>
       <td width="50%" valign="top">
         <h3 align="center">
-          <!-- Ganti link di bawah dengan link project Teman Cerita -->
           <a href="URL_PROJECT_TEMAN_CERITA">🗣️ Teman Cerita</a>
         </h3>
         <p align="center">
-          <a href="URL_PROJECT_TEMAN_CERITA">Platform web pelacakan konseling siswa. Merutekan detail konsultasi anonim langsung ke bot Telegram terintegrasi.</a>
+          Platform web pelacakan konseling siswa. Merutekan detail konsultasi anonim langsung ke bot Telegram terintegrasi.
         </p>
         <p align="center">
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -54,11 +52,10 @@
     <tr>
       <td width="50%" valign="top">
         <h3 align="center">
-          <!-- Ganti link di bawah dengan link project 3D Particle -->
           <a href="URL_PROJECT_3D_PARTICLE">✨ 3D Particle Gestures</a>
         </h3>
         <p align="center">
-          <a href="URL_PROJECT_3D_PARTICLE">Sistem visualisasi partikel 3D berbasis gestur yang memanfaatkan pemetaan titik Three.js dan kamera pelacakan tangan MediaPipe.</a>
+          Sistem visualisasi partikel 3D berbasis gestur yang memanfaatkan pemetaan titik Three.js dan kamera pelacakan tangan MediaPipe.
         </p>
         <p align="center">
           <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white" alt="ThreeJS"/>
@@ -67,11 +64,10 @@
       </td>
       <td width="50%" valign="top">
         <h3 align="center">
-          <!-- Ganti link di bawah dengan link project n8n -->
           <a href="URL_PROJECT_N8N_AUTOMATION">⚙️ n8n Automation Engine</a>
         </h3>
         <p align="center">
-          <a href="URL_PROJECT_N8N_AUTOMATION">Antarmuka pengumpulan data otomatis yang di-deploy menggunakan n8n via Docker, terintegrasi penuh dengan Google Sheets.</a>
+          Antarmuka pengumpulan data otomatis yang di-deploy menggunakan n8n via Docker, terintegrasi penuh dengan Google Sheets.
         </p>
         <p align="center">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
